@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Mi name is Víctor and after 10 years of working as a journalist/writer and a brief time as a student of Physics, I started to explore web development. 
+
+From a simple curiosity, I went on to formally study HTML, CSS and JavaScript with the goal of landing my first job as a Front-end Developer.
