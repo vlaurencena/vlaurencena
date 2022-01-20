@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Víctor and after 10 years of working as a journalist/writer and a brief time as a student of Physics, I started to explore web development. 
+My name is Víctor and after 10 years of working as a journalist/writer, I started to explore web development. 
 
 From a simple curiosity, I went on to formally study HTML, CSS and JavaScript with the goal of landing my first job as a Front-end Developer.
 
@@ -31,3 +31,5 @@ From a simple curiosity, I went on to formally study HTML, CSS and JavaScript wi
 <img align="left" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
