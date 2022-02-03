@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Víctor and after 10 years of working as a journalist/writer, I started to explore web development. 
+My name is Víctor and after 10 years of working as a journalist, editor and SEO writer, I started to explore web development. 
 
 From a simple curiosity, I went on to formally study HTML, CSS, JavaScript and React with the goal of landing my first job as a Front-end Developer.
 
