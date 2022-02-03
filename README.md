@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Víctor and after 10 years of working as a journalist/writer, I started to explore web development. 
 
-From a simple curiosity, I went on to formally study HTML, CSS and JavaScript with the goal of landing my first job as a Front-end Developer.
+From a simple curiosity, I went on to formally study HTML, CSS, JavaScript and React with the goal of landing my first job as a Front-end Developer.
 
 ## Porfolio
 * Ecommerce for Funko Pop collectible toys: [Live version](https://funko-town.herokuapp.com/) | [Repository](https://github.com/vlaurencena/react-app-victor-laurencena)
