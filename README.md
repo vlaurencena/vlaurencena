@@ -24,6 +24,7 @@ From a simple curiosity, I went on to formally study HTML, CSS, JavaScript and R
 * Fully functional Monopoly : [Live version](https://vlaurencena.github.io/monopoly/) | [Repository](https://github.com/vlaurencena/monopoly)
 * Responsive website about the Moon: [Live version](https://vlaurencena.github.io/the-moon-website/) | [Repository](https://github.com/vlaurencena/porfolio-template-web-and-mobile)
 * Responsive portfolio template: [Live version](https://vlaurencena.github.io/porfolio-template-web-and-mobile/) | [Repository](https://github.com/vlaurencena/porfolio-template-web-and-mobile)
+* Weather App: [Live version](https://weather-app-vlaurencena.herokuapp.com/) | [Repository](https://github.com/vlaurencena/weather-app-react)
 
 ## Expertise
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
