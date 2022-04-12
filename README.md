@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm looking for an entry-level front-end developer position.  I love JavaScript and right now I'm focused on learning everything related to Web Development and implementing it on different projects.
+I am looking for an entry-level front-end developer position or a writer position where I can implement my knowledge on this field.  I love JavaScript, and right now I'm focused on learning everything related to web development and putting it into practice in different projects.
 
 ## 🔭 Porfolio
 * Ecommerce for Funko Pop collectible toys: [Live version](https://funko-town.herokuapp.com/) | [Repository](https://github.com/vlaurencena/react-app-victor-laurencena)
