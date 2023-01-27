@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 🃏 I also work as a freelance writer specialized in the casino industry.
 
 ## 🔭 Things I built
-* Ecommerce for Funko Pop collectible toys: [Live version](https://funko-town.herokuapp.com/) | [Repository](https://github.com/vlaurencena/react-app-victor-laurencena)
+* Ecommerce for Funko Pop collectible toys: [Repository](https://github.com/vlaurencena/react-app-victor-laurencena)
 * Fully functional Monopoly : [Live version](https://vlaurencena.github.io/monopoly/) | [Repository](https://github.com/vlaurencena/monopoly)
 * Responsive website about the Moon: [Live version](https://vlaurencena.github.io/the-moon-website/) | [Repository](https://github.com/vlaurencena/the-moon-website)
 * Responsive portfolio template: [Live version](https://vlaurencena.github.io/porfolio-template-web-and-mobile/) | [Repository](https://github.com/vlaurencena/porfolio-template-web-and-mobile)
-* Weather App: [Live version](https://weather-app-vlaurencena.herokuapp.com/) | [Repository](https://github.com/vlaurencena/weather-app-react)
+* Weather App: [Repository](https://github.com/vlaurencena/weather-app-react)
 
 ## 🔧 Technologies & Tools
 <div>
