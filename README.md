@@ -1,23 +1,17 @@
-# 👋 Hello, world! 
+# 👋 Hello, visitor! 
 
 <!--
 **vlaurencena/vlaurencena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working as a Technical Writer.
+- 🌱 I’m constantly learning different stuff, from version control to UX/UI.
+- 👨‍💻 I’m a frontend enthusiast.
+- 🃏 I also work as a freelance writer specialized in the casino industry.
 
-I am looking for an entry-level front-end developer position or a writer position where I can implement my knowledge on this field.  I love JavaScript, and right now I'm focused on learning everything related to web development and putting it into practice in different projects.
-
-## 🔭 Porfolio
+## 🔭 Things I built
 * Ecommerce for Funko Pop collectible toys: [Live version](https://funko-town.herokuapp.com/) | [Repository](https://github.com/vlaurencena/react-app-victor-laurencena)
 * Fully functional Monopoly : [Live version](https://vlaurencena.github.io/monopoly/) | [Repository](https://github.com/vlaurencena/monopoly)
 * Responsive website about the Moon: [Live version](https://vlaurencena.github.io/the-moon-website/) | [Repository](https://github.com/vlaurencena/the-moon-website)
