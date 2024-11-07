@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as a Technical Writer.
-- 🌱 I’m constantly learning different stuff, from version control to UX/UI.
+- 🔭 I’m a software Technical Writer.
+- 🌱 I’m constantly learning different stuff, from version control to UX/UI. Now I'm learning Python.
 - 👨‍💻 I’m a frontend enthusiast.
 - 🃏 I also work as a freelance writer.
 
