@@ -6,6 +6,7 @@
 - 🃏 I also work as a freelance writer.
 
 ## 🔭 Things I've done
+* Stephen King API OpenAPI documentation: [Live version](https://vlaurencena.github.io/stephen-king-openapi-swagger-ui/) | [Repository](https://github.com/vlaurencena/stephen-king-openapi-swagger-ui)
 * Harry Potter API OpenAPI documentation: [Live version](https://vlaurencena.github.io/harry-potter-openapi-swagger-ui/) | [Repository](https://github.com/vlaurencena/harry-potter-openapi-swagger-ui)
 * Fully functional Monopoly : [Live version](https://vlaurencena.github.io/monopoly/) | [Repository](https://github.com/vlaurencena/monopoly)
 * E-commerce for Funko Pop collectible toys: [Repository](https://github.com/vlaurencena/react-app-victor-laurencena)
