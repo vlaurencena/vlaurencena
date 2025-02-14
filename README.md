@@ -5,7 +5,8 @@
 - 🌱 I’m constantly learning different stuff, from version control to UX/UI. Now, I'm learning Python.
 - 🃏 I also work as a freelance writer.
 
-## 🔭 Things I've built
+## 🔭 Things I've done
+* Harry Potter API OpenAPI documentation: [Live version](https://vlaurencena.github.io/harry-potter-openapi-swagger-ui/) | [Repository](https://github.com/vlaurencena/harry-potter-openapi-swagger-ui)
 * Fully functional Monopoly : [Live version](https://vlaurencena.github.io/monopoly/) | [Repository](https://github.com/vlaurencena/monopoly)
 * E-commerce for Funko Pop collectible toys: [Repository](https://github.com/vlaurencena/react-app-victor-laurencena)
 * Responsive website about the Moon: [Live version](https://vlaurencena.github.io/the-moon-website/) | [Repository](https://github.com/vlaurencena/the-moon-website)
